@@ -32,7 +32,8 @@
 <!-- Portfolio -->
 ## 🗂️Portfolio:
 
-[Pequeno Jogo em Java](https://github.com/henrique-castilho/Jogo_AdivinhaNumero)
+[Pequeno Jogo em Java](https://github.com/henrique-castilho/Jogo_AdivinhaNumero) <br>
+[Site de Peças para Computadores](https://github.com/henrique-castilho/Projeto_Loja)
 
 
 ---

@@ -3,6 +3,10 @@
 <!-- Dropdown -->
 <details align="left">
   <summary> <h2>👨🏻‍💻 Sobre Mim</h2> </summary>
+  Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação e tecnologia. 
+  Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.<br><br>
+  🚀 Meu objetivo é continuar evoluindo como desenvolvedor e, no futuro, colaborar com equipes que incentivem minha criatividade e
+  aprimorem minhas capacidades técnicas, especialmente no desenvolvimento de soluções inovadoras.
 </details>
 
 <!-- Links -->

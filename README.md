@@ -29,7 +29,7 @@
 <!-- GithubStats -->
 ## 👀 Status
 ![henrique-castilho GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-castilho&show_icons=true&theme=tokyonight&border_radius=30)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-castilho&layout=compact&theme=tokyonight&border_radius=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-castilho&layout=compact&theme=tokyonight&langs_count=7&border_radius=30)
 
 ---
 

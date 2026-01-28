@@ -41,7 +41,6 @@
 [Clima Tempo utilizando API](https://github.com/henrique-castilho/ClimaTempoAPI) <br>
 [Consulta Endereço via CEP](https://github.com/henrique-castilho/ConsultaEndereco)
 
-
 ---
 
 ## 🔥 Habilidades

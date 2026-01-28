@@ -12,7 +12,7 @@
 <!-- Links -->
 ## Contato
 <div align="left">
-  <a href="https://www.linkedin.com/in/henrique-castilho-pires-de-carvalho/" target="_blank">
+  <a href="https://www.linkedin.com/in/henriquecastilhopires/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="27" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/h_.castilho/" target="_blank">
